@@ -1,7 +1,7 @@
 ---
 title: "Danish Kings"
-author: "Emmy-Sophie Herzog og Liv Belert Mortensen"
-date: "26-5-25"
+author: "Nikoline Koldbæk Kaiser"
+date: "18-5-26"
 output: html_document
 ---
 
