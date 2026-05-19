@@ -1,5 +1,5 @@
 ---
-title: "Danish Kings"
+title: "Danish Monarchs"
 author: "Nikoline Koldbæk Kaiser"
 date: "18-5-26"
 output: html_document
